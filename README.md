@@ -11,7 +11,8 @@ and efforts. Because open source work is often carried out on a volunteer basis,
 potential contributors feel welcome and encouraged to do so. On a pragmatic level, this must be balanced
 with the high workload that project leaders and frequent contributors (sometimes called "core committers")
 face in maintaining open source projects. We believe a stronger, more valuable community and development
-process can be enabled by clear documentation and guidelines.
+process can be enabled by clear documentation and guidelines.These guidelines are needed to be followed and in times when the guidelines are found to be broken, the user will be banned. 
+
 
 ## What this repository is
 
